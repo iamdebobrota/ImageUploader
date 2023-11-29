@@ -15,7 +15,7 @@ Follow these steps to get started with the project.
 
 1. Clone the repository:
 
-   ```git clone https://github.com/Inder-Pal-github/Image-Upload-Frontend```
+   ```git clone [copy the url]```
 2. Install dependencies:
 
   - cd project-name
@@ -34,19 +34,12 @@ Start the development server:
    - Image preview
 
 #### Backend Repository
-Find the frontend repository for this project here. [LINK](https://github.com/Inder-Pal-github/Image-Upload-Backend)
+Find the frontend repository for this project here. [LINK](https://github.com/iamdebobrota/ImageUploader.git)
 
 Deployed Links
-
-- Frontend: [LINK](https://xlwjgp-3000.csb.app/)
-- Backend: [LINK](https://cerulean-ant-slip.cyclic.app/)
 - `Built With`
   - ReactJs
   - Chakra-UI
  
-### Complete explaination video: [Link](https://drive.google.com/file/d/1kVgVapw9mbybVIG5_NX89_F1jyBtKaSK/view?usp=sharing)🚀
-##### License
-This project is licensed under the MIT License.
-
 
 ## `` Do hit a like and feel free to fork the repo``
